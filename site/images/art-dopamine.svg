@@ -1,0 +1,19 @@
+<svg viewBox="0 0 480 300" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="dopTitle">
+  <title id="dopTitle">Illustration of a smartphone screen with a rising notification bell and pulsing reward rings, representing dopamine and anticipation while shopping online</title>
+  <rect width="480" height="300" fill="#F7F5EF"/>
+  <rect x="170" y="50" width="140" height="220" rx="18" fill="#EDEAE0" stroke="#1C1B29" stroke-width="3"/>
+  <rect x="184" y="76" width="112" height="150" rx="4" fill="#F7F5EF" stroke="#1C1B29" stroke-opacity="0.15"/>
+  <circle cx="240" cy="240" r="9" fill="none" stroke="#1C1B29" stroke-width="2.5"/>
+
+  <!-- pulsing rings -->
+  <circle cx="240" cy="150" r="26" fill="none" stroke="#C89B3C" stroke-width="4"/>
+  <circle cx="240" cy="150" r="46" fill="none" stroke="#C89B3C" stroke-width="3" opacity="0.6"/>
+  <circle cx="240" cy="150" r="66" fill="none" stroke="#C89B3C" stroke-width="2" opacity="0.35"/>
+  <circle cx="240" cy="150" r="14" fill="#B1503B"/>
+
+  <!-- small floating icons -->
+  <circle cx="120" cy="90" r="10" fill="#2F6F6B"/>
+  <rect x="345" y="80" width="20" height="20" rx="4" fill="#2F6F6B"/>
+  <circle cx="360" cy="200" r="8" fill="#C89B3C"/>
+  <path d="M100 220 l14 14 l14 -20" fill="none" stroke="#1C1B29" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

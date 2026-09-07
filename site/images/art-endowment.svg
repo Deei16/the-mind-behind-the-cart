@@ -1,0 +1,22 @@
+<svg viewBox="0 0 480 300" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="eeTitle">
+  <title id="eeTitle">Illustration of a shopping cart tethered to a small padlock and price tag, representing how items in a cart begin to feel already owned</title>
+  <rect width="480" height="300" fill="#F7F5EF"/>
+
+  <!-- cart -->
+  <path d="M110 110 L90 110 L128 210 L280 210 L308 130 L128 130"
+        fill="none" stroke="#1C1B29" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="150" cy="240" r="13" fill="#1C1B29"/>
+  <circle cx="258" cy="240" r="13" fill="#1C1B29"/>
+
+  <!-- tether line to tag -->
+  <path d="M280 160 C 330 150, 360 130, 380 100" fill="none" stroke="#2F6F6B" stroke-width="3" stroke-dasharray="6 7"/>
+
+  <!-- padlock -->
+  <rect x="356" y="98" width="48" height="38" rx="6" fill="#EDEAE0" stroke="#1C1B29" stroke-width="3"/>
+  <path d="M366 98 v-14 a14 14 0 0 1 28 0 v14" fill="none" stroke="#1C1B29" stroke-width="4"/>
+  <circle cx="380" cy="117" r="5" fill="#B1503B"/>
+
+  <!-- price tag inside cart -->
+  <path d="M175 150 l35 0 l20 20 l-20 20 l-35 0z" fill="#C89B3C"/>
+  <circle cx="182" cy="150" r="3" fill="#F7F5EF"/>
+</svg>

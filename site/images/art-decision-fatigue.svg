@@ -1,0 +1,20 @@
+<svg viewBox="0 0 480 300" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="dfTitle">
+  <title id="dfTitle">Illustration of a battery icon depleting into the shape of a moon and clock, representing willpower running low late at night</title>
+  <rect width="480" height="300" fill="#F7F5EF"/>
+
+  <!-- battery -->
+  <rect x="90" y="120" width="180" height="70" rx="8" fill="#EDEAE0" stroke="#1C1B29" stroke-width="3"/>
+  <rect x="270" y="140" width="14" height="30" rx="3" fill="#1C1B29"/>
+  <rect x="100" y="130" width="40" height="50" fill="#2F6F6B"/>
+  <rect x="146" y="130" width="30" height="50" fill="#C89B3C" opacity="0.8"/>
+  <rect x="182" y="130" width="20" height="50" fill="#B1503B" opacity="0.6"/>
+
+  <!-- clock -->
+  <circle cx="380" cy="155" r="46" fill="#EDEAE0" stroke="#1C1B29" stroke-width="3"/>
+  <line x1="380" y1="155" x2="380" y2="125" stroke="#1C1B29" stroke-width="4" stroke-linecap="round"/>
+  <line x1="380" y1="155" x2="402" y2="165" stroke="#1C1B29" stroke-width="4" stroke-linecap="round"/>
+  <circle cx="380" cy="155" r="4" fill="#1C1B29"/>
+
+  <!-- moon -->
+  <path d="M340 90 a20 20 0 1 0 20 34 a16 16 0 0 1 -20 -34z" fill="#1C1B29" opacity="0.75"/>
+</svg>
